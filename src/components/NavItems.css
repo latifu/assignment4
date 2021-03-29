@@ -1,0 +1,13 @@
+ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+li {
+  list-style: none;
+  font-size: 2rem;
+  font-style: italic;
+}
+.navtex {
+  color: black;
+}

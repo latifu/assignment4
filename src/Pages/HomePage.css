@@ -1,0 +1,26 @@
+.landpage {
+  background-image: url("./about-bg.jpg");
+  height: 100vh;
+  background-blend-mode: multiply;
+  background-color: rgba(8, 8, 8, 0.664);
+}
+
+h1 {
+  font-size: 70px;
+  color: aliceblue;
+  font-family: "Times New Roman", Times, serif;
+  padding-left: 4rem;
+}
+p {
+  color: aliceblue;
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color: rgba(165, 42, 42, 0.075);
+  font-size: 40px;
+  border: 3px solid rgba(255, 0, 0, 0.287);
+  height: 30vh;
+  width: 90vw;
+  padding: 2rem 2rem;
+  margin-top: 2rem;
+  margin-left: 2rem;
+  border-radius: 1.5rem;
+}
